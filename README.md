@@ -43,10 +43,20 @@ brukertest og rapportere funn.
 </ul>
 
 <h2>Oppgave 3 – Eye tracking (20%)</h2>
-- Beskriv styrker og svakheter ved data som samles inn ved bruk av eye tracking som metode, samt hvordan eye tracking kan kombineres med andre metoder i forbindelse med testing.
-- Diskuter i hvilke tilfeller det ikke er egnet å benytte seg av eye tracking som metode og begrunnsvaret.
-- Tenk at du/dere skal samle inn eye tracking data for følgende websider: www.snooslo.no og www.tusenfryd.no. Foreslå minimum fire AOI’s (area of interest) for hver av websidene og begrunn hvorfor hver av disse er av spesiell interesse. AOI’s som foreslås trenger ikke kun å være på startsiden.
-- I tillegg skal det leveres et printscreen av websiden hvor hver av de ulike AOI’s er markert.
+<ul>
+  <li>
+    Beskriv styrker og svakheter ved data som samles inn ved bruk av eye tracking som metode, samt hvordan eye tracking kan kombineres med andre metoder i forbindelse med testing.
+  </li>
+  <li>
+    Diskuter i hvilke tilfeller det ikke er egnet å benytte seg av eye tracking som metode og begrunnsvaret.
+  </li>
+  <li>
+    Tenk at du/dere skal samle inn eye tracking data for følgende websider: www.snooslo.no og www.tusenfryd.no. Foreslå minimum fire AOI’s (area of interest) for hver av websidene og begrunn hvorfor hver av disse er av         spesiell interesse. AOI’s som foreslås trenger ikke kun å være på startsiden.
+  </li>
+  <li>
+    I tillegg skal det leveres et printscreen av websiden hvor hver av de ulike AOI’s er markert.
+  </li>
+</ul>
 
 <h2>Oppgave 4 – Ekstern (remote) brukertesting (20%)</h2>
 - Forklar hva som menes med ekstern (remote) brukertesting.
