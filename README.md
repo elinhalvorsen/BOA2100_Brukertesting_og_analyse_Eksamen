@@ -23,11 +23,24 @@
 I denne oppgaven skal du/dere velge én av følgende websider: www.norskluftambulanse.no,
 www.kristiania.no eller www.lanekassen.no. Videre skal dere gjennomføre en oppgaveorientert
 brukertest og rapportere funn.
-- Forklar hva som menes med brukertesting og hvorfor det er viktig å teste digitale-løsninger (eksempelvis websider og apper).
-- Presenter websiden dere har valgt og beskriv målgruppen.
-- Deretter skal det utarbeides en testplan. Det kan være et eget dokument (vedlegg bakerst i bevarelsen) eller legges inn punktvis under denne oppgaven.
-- Gjennomfør brukertesting med 4-6 personer og beskriv prosessen.
-- Analyser funnene fra brukertesten og skriv en brukertestrapport. Det kan være et eget dokument (vedlegg bakerst i bevarelsen) eller legges inn punktvis under denne oppgaven.
+<ul>
+  <li>
+    Forklar hva som menes med brukertesting og hvorfor det er viktig å teste digitale-løsninger (eksempelvis websider og apper).
+  </li>
+  <li>
+    Presenter websiden dere har valgt og beskriv målgruppen.
+  </li>
+  <li>
+    Deretter skal det utarbeides en testplan. Det kan være et eget dokument (vedlegg bakerst i bevarelsen) eller legges inn punktvis under denne oppgaven.
+  </li>
+  <li>
+    Gjennomfør brukertesting med 4-6 personer og beskriv prosessen.
+  </li>
+  <li>
+    Analyser funnene fra brukertesten og skriv en brukertestrapport. Det kan være et eget dokument (vedlegg bakerst i bevarelsen) eller legges inn punktvis under denne oppgaven.
+  </li>
+
+</ul>
 
 <h2>Oppgave 3 – Eye tracking (20%)</h2>
 - Beskriv styrker og svakheter ved data som samles inn ved bruk av eye tracking som metode, samt hvordan eye tracking kan kombineres med andre metoder i forbindelse med testing.
