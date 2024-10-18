@@ -59,7 +59,17 @@ brukertest og rapportere funn.
 </ul>
 
 <h2>Oppgave 4 – Ekstern (remote) brukertesting (20%)</h2>
-- Forklar hva som menes med ekstern (remote) brukertesting.
-- Diskuter styrker og svakheter ved denne metoden.
-- Redegjør for når det er hensiktsmessig å benytte seg av denne metoden og kom med konkrete eksempler.
-- Se disse metodene i lys av hverandre og diskuter forskjeller og ulikheter: (1) Eye tracking, (2) ekstern (remote) brukertesting og (3) lab-testing.
+<ul>
+  <li>
+    Forklar hva som menes med ekstern (remote) brukertesting.
+  </li>
+  <li>
+    Diskuter styrker og svakheter ved denne metoden.
+  </li>
+  <li>
+    Redegjør for når det er hensiktsmessig å benytte seg av denne metoden og kom med konkrete eksempler.
+  </li>
+  <li>
+    Se disse metodene i lys av hverandre og diskuter forskjeller og ulikheter: (1) Eye tracking, (2) ekstern (remote) brukertesting og (3) lab-testing.
+  </li>
+</ul>
