@@ -3,10 +3,21 @@
 </h1>
 
 <h2>Oppgave 1 – System Usability Scale (20%)</h2>
-- Ta utgangspunkt i disse websidene: www.freia.no og www.stortinget.no
-- Deretter skal det gjennomføres en test med fire potensielle brukere for hver av websidene. Ta utgangspunkt i System Usability Scale (SUS) og sørg for at testpersonene er godt kjent med løsningen før de svarer på påstandene. Beskriv prosessen.
-- Redegjør for funnene og diskuter dem både individuelt sett og samlet sett for alle testpersonene.
-- Diskuter også styrker og svakheter ved denne metoden (SUS).
+<ul>
+  <ol>
+    Ta utgangspunkt i disse websidene: www.freia.no og www.stortinget.no
+  </ol>
+  <ol>
+  Deretter skal det gjennomføres en test med fire potensielle brukere for hver av websidene. Ta utgangspunkt i System Usability Scale (SUS) og sørg for at testpersonene er godt kjent med løsningen før de svarer på   
+  påstandene. Beskriv prosessen.
+  </ol>
+  <ol>
+    Redegjør for funnene og diskuter dem både individuelt sett og samlet sett for alle testpersonene.
+  </ol>
+  <ol>
+    Diskuter også styrker og svakheter ved denne metoden (SUS).
+  </ol>
+</ul>
 
 <h2>Oppgave 2 – Brukertesting (40%)</h2>
 I denne oppgaven skal du/dere velge én av følgende websider: www.norskluftambulanse.no,
