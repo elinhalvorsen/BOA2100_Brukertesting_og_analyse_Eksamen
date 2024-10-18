@@ -2,29 +2,17 @@
   BOA2100 Brukertesting og analyse Eksamen Høsten 2023
 </h1>
 
-Hjemmeeksamen
-BOA2100 Brukertesting og analyse
-Høsten 2023
-Tillatte hjelpemidler: Alle
-Oppgaven skal løses i grupper på 2-5 studenter, det er også mulig å levere individuelt.
-Utlevering: 27. september kl. 10.00.
-Innlevering: 22. november kl. 10.00. Leveres i WISEflow.
-Besvarelsen leveres som ett samlet dokument (pdf-fil) og du/dere bestemmer selv strukturen på
-dokumentet. Det er viktig at rapporten (dokumentet) som leveres er leservennlig, strukturert og
-gjennomarbeidet. Det forventes at besvarelsen inneholder referanser fra pensum og/eller annen
-relevant faglitteratur.
-Oppgave 1 – System Usability Scale (20%)
-o Ta utgangspunkt i disse websidene: www.freia.no og www.stortinget.no
-o Deretter skal det gjennomføres en test med fire potensielle brukere for hver av websidene. Ta
-utgangspunkt i System Usability Scale (SUS) og sørg for at testpersonene er godt kjent med
-løsningen før de svarer på påstandene. Beskriv prosessen.
-o Redegjør for funnene og diskuter dem både individuelt sett og samlet sett for alle testpersonene.
-o Diskuter også styrker og svakheter ved denne metoden (SUS).
-Oppgave 2 – Brukertesting (40%)
+#Oppgave 1 – System Usability Scale (20%)
+- Ta utgangspunkt i disse websidene: www.freia.no og www.stortinget.no
+- Deretter skal det gjennomføres en test med fire potensielle brukere for hver av websidene. Ta utgangspunkt i System Usability Scale (SUS) og sørg for at testpersonene er godt kjent med løsningen før de svarer på påstandene. Beskriv prosessen.
+- Redegjør for funnene og diskuter dem både individuelt sett og samlet sett for alle testpersonene.
+- Diskuter også styrker og svakheter ved denne metoden (SUS).
+
+#Oppgave 2 – Brukertesting (40%)
 I denne oppgaven skal du/dere velge én av følgende websider: www.norskluftambulanse.no,
 www.kristiania.no eller www.lanekassen.no. Videre skal dere gjennomføre en oppgaveorientert
 brukertest og rapportere funn.
-o Forklar hva som menes med brukertesting og hvorfor det er viktig å teste digitale-løsninger
+- Forklar hva som menes med brukertesting og hvorfor det er viktig å teste digitale-løsninger
 (eksempelvis websider og apper).
 o Presenter websiden dere har valgt og beskriv målgruppen.
 o Deretter skal det utarbeides en testplan. Det kan være et eget dokument (vedlegg bakerst i
